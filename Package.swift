@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "JuspaySafeBrowser",
-            url: "https://public.releases.juspay.in/release/ios/juspay-safe-browser/0.1.93/JuspaySafeBrowser.zip",
-            checksum: "6769e80ccf36aa89e6db6f507656f3e9aea232ea5045bd235b4f08d06c9901bc"
+            url: "https://public.releases.juspay.in/release/ios/juspay-safe-browser/0.1.94/JuspaySafeBrowser.zip",
+            checksum: "8c11bb36469574e622e1541561da999dec38d462b3bd5d377287ba29ba0f1159"
         )
     ]
 )
